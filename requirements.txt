@@ -1,5 +1,3 @@
 discord.py
 pytz
 flask
-python-dotenv
-aiohttp
